@@ -7,7 +7,7 @@ The purpose of this repository is to build strong knowledge in **MySQL query wri
 
 ---
 
-## 📌 About This Repository
+##  About This Repository
 
 `MySQL-learning-practice` is a personal learning repository where I practice:
 
@@ -31,7 +31,7 @@ This repository may include multiple SQL practice files based on different datas
 
 ---
 
-## 🎯 Learning Goals
+##  Learning Goals
 
 The main goals of this repository are:
 
@@ -44,7 +44,7 @@ The main goals of this repository are:
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - **MySQL**
 - **MySQL Workbench**
@@ -52,7 +52,7 @@ The main goals of this repository are:
 
 ---
 
-## 📚 SQL Topics Covered
+## SQL Topics Covered
 
 This repository includes practice on the following SQL concepts:
 
@@ -103,18 +103,4 @@ This repository includes practice on the following SQL concepts:
 
 ---
 
-## 🗂️ Repository Structure
 
-The structure of this repository may look like this:
-
-```bash
-MySQL-learning-practice/
-│
-├── employees.sql
-├── departments.sql
-├── product.sql
-├── customer.sql
-├── sales.sql
-├── queries.sql
-├── practice_questions.sql
-└── README.md
